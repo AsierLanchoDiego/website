@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+table{
+    border: 1px solid;
+    width: 100%;
+    background-color: blue;
+    color:yellow;
+}
